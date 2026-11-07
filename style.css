@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+
+.texto-destaque {
+    color: brown;
+    font-weight: bold;
+}
+
+
+#palmeiras {
+    color: rgb(25, 211, 25);
+}
+
+.container {
+    display: flex;
+    justify-content: center; /* Alinhamento horizontal */
+    align-items: center; /* Alinhamento vertical */
+    gap: 20px; /* Espaçamento cravado */
+}
